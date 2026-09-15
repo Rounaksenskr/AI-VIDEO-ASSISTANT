@@ -1,6 +1,3 @@
-import static_ffmpeg
-
-static_ffmpeg.add_paths()
 import yt_dlp
 from pydub import AudioSegment
 import os
